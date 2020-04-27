@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "\\dataloaders",
+    "\\dataloaders\\datasets",
+    "\\modeling",
+    "\\modeling\\backbone"
+  ],
+  "PreviewInSolutionExplorer": false
+}
