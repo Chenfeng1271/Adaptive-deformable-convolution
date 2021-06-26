@@ -11,7 +11,7 @@ This is a PyTorch(0.4.1) implementation of [Adaptive deformable convnet](https:/
 
 The code was tested with Anaconda and Python 3.6. After installing the Anaconda environment:
 
-0. Clone the repo:
+0. Clone the repo: ```git clone https://github.com/Chenfeng1271/Adaptive-deformable-convolution.git```
 
 1. Install dependencies:
 
