@@ -48,6 +48,17 @@ Fellow steps below to train your model:
    ```
 
    
+Please kindly cite the following paper in your publications if it helps your research:
+```
+@article{chen2021adaptive,
+  title={Adaptive deformable convolutional network},
+  author={Chen, Feng and Wu, Fei and Xu, Jing and Gao, Guangwei and Ge, Qi and Jing, Xiao-Yuan},
+  journal={Neurocomputing},
+  volume={453},
+  pages={853--864},
+  year={2021}
+}
+```
 
    
 
